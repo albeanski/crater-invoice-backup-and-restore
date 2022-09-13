@@ -1,5 +1,5 @@
- # Simplified Instructions
-Simplified instructions for backing up and restoring Crater Invoice using docker. Same as [README.md](README.md) minus some of the extra explanations.
+# crater-invoice-backup-and-restore (simplified)
+**Simplified** instructions for backing up and restoring Crater Invoice using docker. Same as [README.md](README.md) minus some of the extra explanations.
 
 ## Quick Links
 - [Creating Backup](#backup)
