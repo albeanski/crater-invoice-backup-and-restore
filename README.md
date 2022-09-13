@@ -6,10 +6,12 @@ https://docs.craterapp.com/installation.html#docker-installation
 
 Instructions on backing up and restoring Crater are slim to none. The aim of this repo is to simplify and clarify backing up and restoring, with an emphasis on restoring.
 
+> For a simplified breakdown of the instructions see: [SIMPLIFIED.md](SIMPLIFIED.md).
+
 ## Quick Links
 - [Creating Backup](#backup)
 - [Restoring Backup](#restore)
-
+- [Simplified Instructions](SIMPLIFIED.md)
 
 ---
 
